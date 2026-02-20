@@ -1,0 +1,15 @@
+{
+  "default_branch": "feature/orders-billing-module",
+  "branches": [
+    "feature/orders-billing-module",
+    "main"
+  ],
+  "parent": {
+    "feature/orders-billing-module": null,
+    "main": "feature/orders-billing-module"
+  },
+  "order": [
+    "feature/orders-billing-module",
+    "main"
+  ]
+}
