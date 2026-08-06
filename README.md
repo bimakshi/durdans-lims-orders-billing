@@ -2,11 +2,11 @@
 
 Hospital Laboratory Information Management System - Frontend
 
-## 🏥 Project Overview
+## Project Overview
 
 Frontend module for managing laboratory test orders and billing for Durdans Hospital.
 
-## 🚀 Tech Stack
+## Tech Stack
 
 - **Framework:** Next.js 14
 - **Language:** TypeScript
@@ -15,24 +15,24 @@ Frontend module for managing laboratory test orders and billing for Durdans Hosp
 - **Charts:** Recharts
 - **Notifications:** Sonner
 
-## 📦 Installation
+## Installation
 ```bash
 npm install
 ```
 
-## 🛠️ Development
+## Development
 ```bash
 npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000)
 
-## 🏗️ Build
+## Build
 ```bash
 npm run build
 ```
 
-## 📊 Features
+## Features
 
 - Dashboard with KPIs and analytics
 - Test order creation and management
@@ -42,7 +42,7 @@ npm run build
 - Tax invoices
 - Role-based access control
 
-## 🔒 Environment Variables
+## Environment Variables
 
 Create `.env.local`:
 ```env
@@ -50,10 +50,6 @@ NEXT_PUBLIC_API_URL=http://localhost:8080/api
 NEXT_PUBLIC_WS_URL=ws://localhost:8080
 ```
 
-## 👥 Team
+## Team
 
 IFS IT Company - Durdans Hospital Project
-
-## 📝 License
-
-Proprietary - IFS IT Company
